@@ -1,11 +1,11 @@
-# Causal Inference
+# RDD
 
-Этот репозиторий содержит материалы и код для анализа причинно-следственных связей (Causal Inference) в эконометрике.
+Этот репозиторий содержит материалы и код для вопроизведения результатов статьи о 
 
 ## Содержание
 
 - **AppliedMicroeconometrics.ipynb** - Jupyter ноутбук с практическими примерами применения микроэконометрических методов
-- **AppliedMicroeconometrics.pdf** - PDF версия ноутбука с документацией
+- **AppliedMicroeconometrics.pdf** - Подробное описание эксперимента
 - **Lee D. Randomized experiments from non-random selection in U.S. House elections.pdf** - Научная статья о рандомизированных экспериментах
 - **data_for_problem2.dta** - Набор данных в формате Stata для решения задач
 
